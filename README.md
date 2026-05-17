@@ -54,7 +54,7 @@ The implementation uses:
 ### Generated Output
 
 ```txt
-gagggagaaagaaag...
+gagggagaaagaaag...(up to 500 characters)
 ```
 
 The generated sequence statistically resembles the original source input while still producing randomized output.
