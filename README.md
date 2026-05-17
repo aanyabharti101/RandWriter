@@ -47,6 +47,9 @@ The implementation uses:
 ```bash
 ./TextWriter 3 500 < input17.txt
 ```
+- `3` = the order-k value, meaning the generator uses the previous 3 characters to predict the next character
+- `500` = total length of generated output
+- `input17.txt` = source text used to build the Markov model
 
 ### Generated Output
 
